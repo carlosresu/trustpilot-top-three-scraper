@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 cache/trustpilot_http_cache.sqlite
 cache/trustpilot.db
+results.csv
